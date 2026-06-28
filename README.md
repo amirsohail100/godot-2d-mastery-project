@@ -47,5 +47,6 @@ Welcome to the repository of my 2D Game Development project built using the Godo
 1. **Clone the repository:**
 
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_2D_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_2D_REPO_NAME.git)
+git clone [https://github.com/amirsohail100/godot-2d-mastery-project.git](https://github.com/amirsohail100/godot-2d-mastery-project.git)
+cd godot-2d-mastery-project
 ```
